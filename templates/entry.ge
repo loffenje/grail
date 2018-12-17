@@ -1,0 +1,13 @@
+@declare({
+    dist_name: generated_file.txt
+    dist_folder: dist
+
+    strict: true
+
+})
+
+Example text here
+
+Yyy @main(templates/test.ge)
+
+A more text here 
